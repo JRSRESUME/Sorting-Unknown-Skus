@@ -1,0 +1,24 @@
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.exe
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.pdb
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Form1.resources
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Properties.Resources.resources
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csproj.GenerateResource.Cache
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.exe
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Form1.resources
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Properties.Resources.resources
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csprojResolveAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\bin\Debug\Sorting Unknown Skus.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csprojAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Form1.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting_Unknown_Skus.Properties.Resources.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csproj.GenerateResource.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.csproj.CoreCompileInputs.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Unknown Skus!\Sorting Unknown Skus\obj\x86\Debug\Sorting Unknown Skus.pdb

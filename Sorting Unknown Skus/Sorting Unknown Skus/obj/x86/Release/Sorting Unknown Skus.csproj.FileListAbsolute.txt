@@ -1,0 +1,8 @@
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\bin\Release\Sorting Unknown Skus.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\bin\Release\Sorting Unknown Skus.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting Unknown Skus.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting_Unknown_Skus.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting_Unknown_Skus.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting Unknown Skus.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting Unknown Skus.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Unknown Skus\Sorting Unknown Skus\obj\x86\Release\Sorting Unknown Skus.pdb
